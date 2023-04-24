@@ -14,7 +14,7 @@ body::-webkit-scrollbar {
 }
 
 .move-content {
-  margin-left: 82rem;
+  margin-left: 72rem;
 }
 
 .header {
@@ -73,28 +73,28 @@ body::-webkit-scrollbar {
 .spanText {
   text-align: center;
   padding-top: 4.5rem;
-  font-size: 27px;
+  font-size: 25px;
   word-wrap: normal;
 }
 
 .spanText1 {
   text-align: center;
   padding-top: 4.5rem;
-  font-size: 28px;
+  font-size: 25px;
   word-wrap: normal;
 }
 
 .spanText2 {
   text-align: center;
   padding-top: 4.5rem;
-  font-size: 27px;
+  font-size: 25px;
   word-wrap: normal;
 }
 
 .spanText3 {
   text-align: center;
   padding-top: 4.5rem;
-  font-size: 26px;
+  font-size: 25px;
   word-wrap: normal;
 }
 
